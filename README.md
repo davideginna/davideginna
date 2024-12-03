@@ -35,9 +35,6 @@ const davide = {
 
 ### Contact me! 💬
 
-<a title="twitter" targer="_blank" href="https://twitter.com/scatolone_">
-<img src="https://github.com/davideginna/davideginna/assets/20647506/be5d9d9f-efc8-4709-9195-eee8d3b2dcac" alt="twitter logo" width="32" height="32">
-</a>
 <a title="linkedin" targer="_blank" href="https://www.linkedin.com/in/davideginna/">
 <img src="https://github.com/davideginna/davideginna/assets/20647506/ac476d61-9537-40c4-948b-f120a78b88e2" alt="linkedin logo" width="32" height="32">
 </a>
